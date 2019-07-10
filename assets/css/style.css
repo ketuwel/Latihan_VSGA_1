@@ -1,0 +1,35 @@
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand {
+    font-size: 180%;
+    color: rgba(206, 97, 192, 0.9);
+}
+
+.content{
+    margin-top: 100px;
+    padding-bottom: 30px;
+}
+
+.content h3{
+    font-size: 40px;
+    font-weight: 200px;
+    margin-top:40px;
+    color: rgba(206, 97, 192, 0.9);
+}
+
+.content p{
+    text-align: justify;
+}
+
+.tombol {
+    border-radius: 50px;
+}
+
+
+.kontak-email{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+.kontak-email h3{
+    font-size: 40px;
+}
